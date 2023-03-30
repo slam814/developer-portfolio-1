@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.half-width{
+    width: 50%;
+}
+h1{
+    font-size: 40px;
+}
+.orange-text{
+    color: orange;
+}
